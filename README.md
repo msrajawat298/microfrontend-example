@@ -6,8 +6,6 @@ This project demonstrates how to build a simple microfrontend setup using React 
 ---
 ## Demo 
 
-![Demo](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
----
 ![Demo](./demo.gif)
 
 ## Apps
