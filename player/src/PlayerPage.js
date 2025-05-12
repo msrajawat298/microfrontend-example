@@ -1,4 +1,4 @@
 
 import React from 'react';
 
-export default () => <h2>🎥 Player Page (Microfrontend)</h2>;
+export default () => <h2>🎥 update Player Page (Microfrontend)</h2>;
